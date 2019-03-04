@@ -1,0 +1,4 @@
+﻿  Engine.cpp
+c:\users\mykyta\source\repos\graphicsconsoleengine\engine\engine.cpp(654): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mykyta\source\repos\graphicsconsoleengine\engine\engine.cpp(415): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  Engine.vcxproj -> C:\Users\Mykyta\source\repos\GraphicsConsoleEngine\Debug\Engine.exe
